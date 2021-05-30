@@ -10,6 +10,9 @@ I know that I'm new to this world and have a lot to learn. Because of that I dec
 
 💭 "It's all about the journey" 💭
 
+
 🏢 I'm currently working on Shopee
+
 📚 I'm currently learning SQL, Python, Power BI
-📫 See my LinkedIn: <https://www.linkedin.com/in/viniciusmandrade/>
+
+📫 See my LinkedIn: [Here]<https://www.linkedin.com/in/viniciusmandrade/>
